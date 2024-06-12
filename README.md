@@ -1,5 +1,5 @@
 
-<img width="200" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW50dW9mOWJoNHFlYmYzbzN0bm9kMjliMjBmenl0YXA1NWFmYmt3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+<img width="180" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW50dW9mOWJoNHFlYmYzbzN0bm9kMjliMjBmenl0YXA1NWFmYmt3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <h3  align="center">
                      Welcome to Abdelrahman Gaber's profile!
@@ -24,7 +24,7 @@
 
 
 
-### Connect with Me :
+### Contact with Me :
 
 <a href="https://linkedin.com/in/abdelrahman-gaber-937b6028b" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Gaber-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/AbdelrahmanGaber528" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Gaber-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
