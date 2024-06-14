@@ -31,7 +31,7 @@
 <a href="https://x.com/Abdelrahman528" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Gaber-0077B5?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://abdelrahmangaber002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Gaber-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/AbdelrahmanGaber528" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Gaber-0077B5?style=for-the-badge&logo=Github&logoColor=white"/></a>
-
+<a href="https://www.facebook.com/AbdelrahmanGaber404" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Gaber-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;My Stack
