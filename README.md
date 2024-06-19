@@ -13,12 +13,11 @@
 
 
 - 👨‍💻 I'm a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C, C++, Html, Css3, JavaScript, and Java or Git & GitHub, little experience now with DataStructure and Algorithm,too.
-- 💬 I have some experience in problem solving on websites such as: Codeforce , Leetcode , Codewars.
 - ⚡IMPO Fact: I'm Muslim , and iam very proud about this.
-- ⚡I like coding and cs very much , i like reading about computer science and machine leaning.
+- ⚡I like coding and cs very much , i like reading about computer science ,i read in java more.
+-  💬 Fun Fact : I like watching eslam boadcasts and lessons on youtube. 
 - ⚡I'm from the fans of boadcasts on youtube.
-  
+  <!-- 💬-           - 💬 Ask me about my experience with C, C++, Html, Css3, JavaScript, and Java or Git & GitHub, little experience now with DataStructure and Algorithm,too.                                                 -->
 
 
 
@@ -39,9 +38,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Static Badge](https://img.shields.io/badge/java-05122A?style=flat&logo=jsr&logoColor=white)
+![Java](https://img.shields.io/badge/java-05122A?style=flat&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
