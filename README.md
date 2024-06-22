@@ -49,18 +49,11 @@
 
 
 
-<!--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
--->
 
-
-
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmangaber528&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=abdelrahmangaber528&style=for-the-badge">
+ <a href="https://komarev.com/ghpvc/?username=abdelrahmangaber528&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=abdelrahmangaber528&style=for-the-badge">
 </a>
+
+<br><br>
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmangaber528&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanGaber528&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Anurag's github stats" />
