@@ -14,7 +14,7 @@
 
 - 👨‍💻 I'm a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡IMPO Fact: I'm Muslim , and iam very proud about this.
-- ⚡I like coding and cs very much , i like reading about computer science ,i read in java more.
+- ⚡I like coding and cs very much , i like reading about computer science .
 -  💬 Fun Fact : I like watching eslam boadcasts and lessons on youtube. 
 - ⚡I'm from the fans of boadcasts on youtube.
   <!-- 💬-           - 💬 Ask me about my experience with C, C++, Html, Css3, JavaScript, and Java or Git & GitHub, little experience now with DataStructure and Algorithm,too.                                                 -->
