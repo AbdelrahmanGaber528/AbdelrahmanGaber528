@@ -13,14 +13,13 @@
 
 
 - 🌱 IMPO Fact: I'm Muslim .
-- 👨‍💻 I'm a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I'm a CS student, I'm constantly exploring new technologies to improve my skills.
 - ⚡ Aspiring Machine Learning Engineer | Passionate about AI and Data Science
 - 💬 Fun Fact : I like watching eslam boadcasts and lessons on youtube. 
 - ⚡ I'm from the fans of boadcasts on youtube.
 - ⚡ Learning: Machine Learning, Statistices and ALgebra.
 - 💻 Check out my projects: [Projects](https://github.com/AbdelrahmanGaber528?tab=repositories)
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abdelrahman-gaber-937b6028b/) | [Email](mailto:abdelrahmangaber002@gmail.com?subject=Project%20Inquiry&body=Hi%2C%20I%27m%20interested%20in%20your%20work%21)
-  <!-- 💬-           - 💬 Ask me about my experience with C, C++, Html, Css3, JavaScript, and Java or Git & GitHub, little experience now with DataStructure and Algorithm,too.                                                 -->
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abdelrahman-gaber-937b6028b/) | [Email](mailto:abdelrahmangaber002@gmail.com?subject=Project%20Inquiry&body=Hi%2C%20I%27m%20interested%20in%20your%20work%21)                                  
 
 
 
