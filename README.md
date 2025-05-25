@@ -36,10 +36,10 @@
 
 ### 🛠 &nbsp;My Stack
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=python&logoCpythonolor=007ACC)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/Scikit%20Learn-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
