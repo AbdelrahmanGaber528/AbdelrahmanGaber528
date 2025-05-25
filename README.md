@@ -41,7 +41,7 @@
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=&logoCpythonolor=007ACC)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=python&logoCpythonolor=007ACC)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/Scikit%20Learn-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
