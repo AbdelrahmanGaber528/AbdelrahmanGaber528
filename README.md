@@ -39,8 +39,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=python&logoCpythonolor=007ACC)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/Scikit%20Learn-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
