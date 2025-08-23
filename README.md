@@ -22,6 +22,30 @@
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abdelrahman-gaber-937b6028b/) | [Email](mailto:abdelrahmangaber002@gmail.com?subject=Project%20Inquiry&body=Hi%2C%20I%27m%20interested%20in%20your%20work%21)                                  
 
 
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="Scikit-learn" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="36" height="36" alt="Seaborn" /></a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="36" height="36" alt="Plotly" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
 
 
@@ -31,26 +55,6 @@
 <a href="https://t.me/AbdelrahmanGaber528" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://x.com/Abdelrahman528" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://www.facebook.com/AbdelrahmanGaber404" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-
-
-### 🛠 &nbsp;My Stack
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![scikit-learn](https://img.shields.io/badge/Scikit%20Learn-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-
-
-
-
-
 
 
 <br>
