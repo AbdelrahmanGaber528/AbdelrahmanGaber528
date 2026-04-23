@@ -8,39 +8,55 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Always%20Learning%20Every%20Day&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Deep%20Learning;Always%20Learning%20Every%20Day&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 
 - 🌱 IMPO Fact: I'm Muslim .
-- 👨‍💻 I'm a CS student, I'm constantly exploring new technologies to improve my skills.
-- ⚡ Aspiring Machine Learning Engineer | Passionate about AI and Data Science
-- 💬 Fun Fact : I like watching eslam boadcasts and lessons on youtube. 
-- ⚡ I'm from the fans of boadcasts on youtube.
-- ⚡ Learning: Machine Learning, Statistices and ALgebra.
-- 💻 Check out my projects: [Projects](https://github.com/AbdelrahmanGaber528?tab=repositories)
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abdelrahman-gaber-937b6028b/) | [Email](mailto:abdelrahmangaber002@gmail.com?subject=Project%20Inquiry&body=Hi%2C%20I%27m%20interested%20in%20your%20work%21)                                  
+- 👨‍💻 I'm a AI & CS student, I'm constantly exploring new technologies to improve my skills.
+- ⚡ Machine Learning Engineer | Passionate about AI and Data Science
+- ⚡ Learning : DeepLearning - NLP , CV ,and Software Principles.
+- 💻 Check out my projects : [Projects](https://github.com/AbdelrahmanGaber528?tab=repositories)
+- 📫 Connect with me : [LinkedIn](https://www.linkedin.com/in/abdelrahman-gaber-937b6028b/) | [Email](mailto:abdelrahmangaber002@gmail.com?subject=Project%20Inquiry&body=Hi%2C%20I%27m%20interested%20in%20your%20work%21)                                  
 
 
 ### Skills
-
 <p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="Scikit-learn" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="36" height="36" alt="Seaborn" /></a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="36" height="36" alt="Plotly" /></a>
-<a href="https://flask.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+
+<!-- Core -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+
+<!-- Data Science -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+
+<!-- Deep Learning -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+
+<!-- Visualization -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+<img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="40"/>
+
+<!-- Backend (UPDATED) -->
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="60"/>
+
+<!-- DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+
+<!-- Cloud -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+
+<!-- System -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+
 </p>
 
 
@@ -54,9 +70,19 @@
 
 
 <br>
- <a href="https://komarev.com/ghpvc/?username=abdelrahmangaber528&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=abdelrahmangaber528&style=for-the-badge">
-</a>
 
-<br><br>
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmangaber528&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanGaber528&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Anurag's github stats" />
+## Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanGaber528&show_icons=true&theme=radical" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanGaber528&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+<br>
+
+## Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abdelrahmangaber528&style=for-the-badge"/>
+</p>
