@@ -70,12 +70,17 @@
 <br>
 
 ## Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanGaber528&show_icons=true&theme=radical" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanGaber528&layout=compact&theme=radical" height="180"/>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdelrahmanGaber528&show_icons=true&theme=radical" 
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdelrahmanGaber528&layout=compact&theme=radical" 
+  />
+</p>
 ---
 <br>
 
