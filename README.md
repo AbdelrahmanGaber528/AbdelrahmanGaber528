@@ -23,7 +23,7 @@ class AbdelrahmanGaber:
         self.system     = "Linux ( ubuntu, Void )"
         self.university = "Capital( Helwan ) University — B.Sc. AI (GPA: 3.32 / 4.0)"
         self.location   = "Beheira → Alex, Egypt"
-        self.focus      = ["Deep Learning", "NLP", "Pytorch", "MLOps"]
+        self.focus      = ["Deep Learning", "Pytorch", "MLOps"]
         self.languages  = {"Arabic": "Native", "English": "Intermediate"}
 ```
 <p align="center">
